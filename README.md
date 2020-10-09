@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-<!--
-**gwhitdev/gwhitdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ## Stats
 <a href="https://github.com/gwhitdev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gwhitdev&count_private=true&show_icons=true&theme=tokyonight&hide=stars,contribs" />
 </a>
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
